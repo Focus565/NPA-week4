@@ -37,8 +37,8 @@ configInterface('R2','g0/2','172.31.183.49')
 
 configInterface('R3', 'g0/1', '172.31.183.34')
 configInterface('R3', 'g0/2', '172.31.183.50')
-configInterface('R3', 'g0/3', '172.31.183.66')
+configInterface('R3', 'g0/3', '172.31.183.65')
 
-configInterface('R4', 'g0/1', '172.31.183.67')
+configInterface('R4', 'g0/1', '172.31.183.66')
 
-configInterface('R5', 'g0/1', '172.31.183.65')
+configInterface('R5', 'g0/1', '172.31.183.67')
